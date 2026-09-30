@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @per5cm
-- 👀 I’m interested in ... sleeping!
-- 🌱 I’m currently learning ... to code!
-- 💞️ I’m looking to collaborate on ... not sure yet!
-- 📫 How to reach me ... my mom told me not to talk with strangers!
-- 😄 Pronouns: ... Ladies and Gentelmen!
+Hi, my name is Erik. I'm a C# developer in Köln.
+
+I enjoy the creative process of building things from scratch and exploring how things work and connect. 
+My recent Boids simulation, which I first worked out on paper, showed me the magic of vector math.
+
+Currently, I'm working on the missing link: connecting the Boids backend to a visualizer.
+
+Stack: Fedora, C#, Python
+
+
 - ⚡ Fun fact: ... i dont do Yoga!
 
 <!---
