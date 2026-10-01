@@ -1,7 +1,7 @@
 Hi, my name is Erik. I'm a C# developer in Cologne.
 
 I enjoy the creative process of building things from scratch and exploring how things work and connect. 
-My recent Boids simulation, which I first worked out on paper, showed me the magic of vector math.
+My recent Boids simulation showed me the magic of vector math.
 
 Currently, I'm working on the missing link: connecting the Boids backend to a visualizer.
 
